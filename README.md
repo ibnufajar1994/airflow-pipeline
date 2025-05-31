@@ -1,11 +1,11 @@
 # ** Designing Data Pipeline using Airflow
 
 ## Content
-[1. Project Description](1.-project-description)  
-[2. Source of Dataset](2.-source-of-data-set)  
-[3. Tech Stack](3.-tech-stack)  
-[4. Pipeline Design](4.-pipeline-design)  
-[5. Project Setup](5.-project-setup)  
+[1. Project Description](#1-project-description)  
+[2. Source of Dataset](#2-source-of-data-set)  
+[3. Tech Stack](#3-tech-stack)  
+[4. Pipeline Design](#4-pipeline-design)  
+[5. Project Setup](#5-project-setup)  
 
 ---
 # 1. Project Description
