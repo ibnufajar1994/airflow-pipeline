@@ -13,7 +13,7 @@ This project builds a simple and reliable data pipeline for a flight booking sys
 
 ---
 
-# 2. Source of Dat
+# 2. Source of Dataset
 The dataset used on this repo comes from airlines data management system that handle flight bookings of customers. you can access the repo on this [link](https://drive.google.com/file/d/1Zu5grD6mKuCcLagggE9R8ILjzvPIbXDQ/view?usp=sharing)
 
 ---
