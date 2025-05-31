@@ -32,7 +32,7 @@ The dataset used on this repo comes from airlines data management system that ha
 # 5. Project Setup
 Clone this repository
 ```
-
+https://github.com/ibnufajar1994/airflow-pipeline.git
 ```
 
 
@@ -63,6 +63,11 @@ MINIO_ROOT_PASSWORD='minio123'
 Generate fernet key, then copy it to your .env file
 ```
 python -c "from cryptography.fernet import Fernet; print(Fernet.generate_key().decode())"
+```
+
+run the project
+```
+docker-compose up --build
 ```
 
 Setup Airflow Connection:
