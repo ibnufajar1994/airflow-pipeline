@@ -1,4 +1,4 @@
-# ** Designing Data Pipeline using Airflow
+# **Designing Data Pipeline using Airflow**
 
 ## Content
 [1. Project Description](#1-project-description)  
