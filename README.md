@@ -80,6 +80,26 @@ Setup Airflow Connection:
   "endpoint_url":"minio:9000",
 }
 ```
+---
+
+# Documentation
+
+## Dag Run
+![Dag Run](sample_image/dag%20run.png)
+
+## Dag Graph
+![Dag Graph](sample_image/dag_graph.png)
+
+## Task Group
+![Task Group](sample_image/task%20group.png)
+
+
+## Minio Data
+![Minio Data](sample_image/minio_data.png)
+
+## Sample Query
+![Sample Query](sample_image/sample%20query.png)
+
 
 
   
